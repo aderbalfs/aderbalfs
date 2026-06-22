@@ -31,19 +31,6 @@ Entrei no mundo do desenvolvimento em 2022 pelo programa intensivo da Rocketseat
 
 </div>
 
-<br/>
-
-## O que estou construindo
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🕯️ **Vela** | Produto em desenvolvimento (MVP em progresso) | React · Node.js · CI/CD |
-| 🚌 **TCC — TranspUni** | Sistema de gestão de transporte universitário com bot WhatsApp e IA conversacional | Python · Gemini API · WhatsApp |
-| 🏗️ **EngApp** | Sistema fullstack de gestão de obras municipais | React 19 · Express · PostgreSQL |
-| 🎓 **CP Preparação** | Landing page de captação para curso preparatório de concursos | React · Vite · TypeScript |
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
