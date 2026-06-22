@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação** (7º semestre — UNIPÊ, João Pessoa/PB), **Diretor de Tecnologia da Informação** na Prefeitura Municipal de Itabaiana-PB e fundador do **[Vela](https://instagram.com/velaapp)** — um produto em construção.
+Sou estudante de **Ciência da Computação** (7º semestre — UNIPÊ, João Pessoa/PB), **Diretor de Tecnologia da Informação** na Prefeitura Municipal de Itabaiana-PB e fundador do **[Vela](https://instagram.com/velasoftware)** — um produto em construção.
 
 Entrei no mundo do desenvolvimento em 2022 pelo programa intensivo da Rocketseat e desde então venho combinando código, gestão pública e empreendedorismo.
 
