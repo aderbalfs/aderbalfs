@@ -45,10 +45,8 @@ Entrei no mundo do desenvolvimento em 2022 pelo programa intensivo da Rocketseat
 ## Fora do código
 
 - 🖤 **Corinthians** — fiel torcedor
-- 👟 **Corrida** — iniciante com tênis de carbono
-- 🌌 **Dark (Netflix)** — minha série favorita
+- 👟 **Corrida** — corredor amador 
 - 🎮 **Games** — sempre em alguma run
-- 📚 **Concursos públicos** — estudando para carreiras policiais (estilo Cebraspe)
 
 <br/>
 
