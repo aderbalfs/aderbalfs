@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=120&section=header&text=Aderbal%20Ferreira&fontColor=ffffff&fontSize=36&fontAlignY=65&desc=Full%20Stack%20Developer%20%7C%20Tech%20Director%20%7C%20Builder&descAlignY=85&descSize=14" width="100%"/>
-
-</div>
-
-<br/>
-
 ## Sobre mim
 
 Sou estudante de **Ciência da Computação** (8º semestre — UNIPÊ, João Pessoa/PB), **Diretor de Tecnologia da Informação** na Prefeitura Municipal de Itabaiana-PB e fundador do **[Vela](https://instagram.com/velasoftware)** — um produto em construção.
@@ -61,9 +53,3 @@ Entrei no mundo do desenvolvimento em 2022 pelo programa intensivo da Rocketseat
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=80&section=footer" width="100%"/>
-
-</div>
