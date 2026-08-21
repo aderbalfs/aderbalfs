@@ -23,15 +23,6 @@ Entrei no mundo do desenvolvimento em 2022 pelo programa intensivo da Rocketseat
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aderbalfs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aderbalfs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9" />
-
-</div>
-
 <br/>
 
 ## Fora do código
